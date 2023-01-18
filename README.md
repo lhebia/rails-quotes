@@ -2,7 +2,7 @@
 
 My version of the rails quotes app tutorial covered in: https://www.hotrails.dev/turbo-rails/crud-controller-ruby-on-rails
 
-Start at: "Adding our quote views"
+Start at: "Turbo Drive: Form responses must redirect to another location"
 
 * Ruby version
 - `3.0.1`

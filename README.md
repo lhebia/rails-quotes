@@ -9,3 +9,6 @@ Start at: "Turbo Drive: Form responses must redirect to another location"
 
 * Rails version
 - `7.0.4`
+
+* Run tests with:
+- `rails test:system`
